@@ -13,7 +13,6 @@
     
 - Backstory:
   + I got into coding on my own after a Data Structures class. In my final project, I used Java in combination with SceneBuilder to make an UI that is designed to help students; though, at the time of presentation, I was not happy with the end result -- I know it could be better. So, I have been working on improving it ever since.
-    Currently, it is still private because I am worried that my project may be copied without permission, and I do not know enough about code protection to feel confident, yet.
 <!--
 **PaulBeggs/PaulBeggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
