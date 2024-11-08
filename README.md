@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- I am currently working on making a Linear Algebra Calculator using Java and IntelliJ.
+- Currently, I am exploring the typesetting language, LaTeX.
+
+- In the past, I've made a Linear Algebra Calculator using Java and IntelliJ. 
   
 - I am not actively looking for additional help on my projects, but if you think there is something you could contribute, please don't hesitate to contact me!
   
